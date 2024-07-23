@@ -8,8 +8,6 @@ Filipino Riddles Quiz: Test Your Knowledge with Bugtong-Bugtong
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -59,4 +57,4 @@ Welcome to **Pinoy Bugtong Bugtong**, a fun and educational quiz app that challe
 6. Continue answering riddles to improve your streak and test your knowledge of Filipino riddles.
 
 
-Enjoy solving the riddles and enhancing your knowledge of Filipino culture with **Pinoy Bugtong Bugtong**!
+### Enjoy solving the riddles and enhancing your knowledge of Filipino culture with **Pinoy Bugtong Bugtong**!
